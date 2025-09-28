@@ -6,3 +6,4 @@ pandas
 matplotlib
 reportlab
 PyPDF2
+psycopg2-binary
