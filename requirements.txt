@@ -1,0 +1,8 @@
+streamlit
+sqlalchemy
+bcrypt
+pyjwt
+pandas
+matplotlib
+reportlab
+PyPDF2
